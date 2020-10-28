@@ -1,40 +1,22 @@
 PODS:
-  - Alamofire (5.2.2)
   - Charts (3.5.0):
     - Charts/Core (= 3.5.0)
   - Charts/Core (3.5.0)
-  - IQKeyboardManagerSwift (6.5.0)
-  - Kingfisher (5.14.1):
-    - Kingfisher/Core (= 5.14.1)
-  - Kingfisher/Core (5.14.1)
-  - MBProgressHUD (1.2.0)
   - SideMenu (6.4.9)
 
 DEPENDENCIES:
-  - Alamofire
   - Charts
-  - IQKeyboardManagerSwift (= 6.5.0)
-  - Kingfisher (~> 5.0)
-  - MBProgressHUD
   - SideMenu
 
 SPEC REPOS:
   trunk:
-    - Alamofire
     - Charts
-    - IQKeyboardManagerSwift
-    - Kingfisher
-    - MBProgressHUD
     - SideMenu
 
 SPEC CHECKSUMS:
-  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
   Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
-  IQKeyboardManagerSwift: 6cd19976c6e871907c4ed9127c2d3affdd4defc2
-  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
-  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   SideMenu: 8ef57a3cfc024a2d3fc1c036c7fe98537baec9e0
 
-PODFILE CHECKSUM: 1f232751c89bdf2db4a60ca0e3a5b8c4cf527eab
+PODFILE CHECKSUM: 45dc6a48160dfb691d92b6fd351b96cf5b790edf
 
 COCOAPODS: 1.9.3
