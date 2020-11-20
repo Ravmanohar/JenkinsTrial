@@ -6,10 +6,10 @@ target 'Dashboard' do
   use_frameworks!
 
   # Pods for Dashboard
-#    pod 'Alamofire'
-#    pod 'MBProgressHUD'
-#    pod 'IQKeyboardManagerSwift', '6.5.0'
-#    pod 'Kingfisher', '~> 5.0'
+    pod 'Alamofire'
+    pod 'MBProgressHUD'
+    pod 'IQKeyboardManagerSwift', '6.5.0'
+    pod 'Kingfisher', '~> 5.0'
     pod 'SideMenu'
     pod 'Charts'
 
